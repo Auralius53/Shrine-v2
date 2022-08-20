@@ -1,0 +1,42 @@
+h1 {
+    color:white;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(16, 16, 16);
+    font-size: 40px;
+    display: block;
+    text-align: center;
+    padding: 25px 25px;
+    text-decoration: none;
+}
+
+h2 {
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0);
+    display: block;
+    background: rgb(16, 16, 16);
+    padding: 17px 17px;
+}
+
+p {
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0);
+    display: block;
+}
+
+li {
+    color:white;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+a {
+    color:white;
+    font-size: 17px;
+}
+
+center {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgba(255, 255, 255, 0.089)
+}
